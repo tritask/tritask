@@ -22,3 +22,6 @@ Tritask は仕様と実装に分かれています。
 - [tritask-sta](https://github.com/tritask/tritask-sta)
   - @stakiran による実装です
   - 秀丸エディタと Python に依存しています
+- [tritask-vscode](https://github.com/tritask/tritask-vscode)
+  - @stakiran による実装です
+  - Visual Studio Code と Python に依存しています
